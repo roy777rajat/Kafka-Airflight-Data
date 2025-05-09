@@ -1,0 +1,8 @@
+# This file is used to install the required packages for the project.
+# You can install the packages using pip by running the following command:
+kafka-python
+kafka-connect-py
+pyinit
+pandas
+boto3
+python-dotenv
