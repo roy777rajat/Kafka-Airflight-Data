@@ -31,7 +31,8 @@ Built with scalability, cost-efficiency, and observability in mind, this project
 ![alt_text](Kafka-Airflight.jpg)
 
 ---
-[![Watch the vedio](https://youtu.be/KlBnCynSdeo)]
+Watch the video on [YouTube](https://youtu.be/KlBnCynSdeo).
+
 ---
 ## ✅ Key Features & Benefits
 
